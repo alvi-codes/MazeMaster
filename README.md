@@ -59,5 +59,5 @@ MazeMaster is an autonomous, two-wheeled robot designed to navigate a maze while
 
 ## Acknowledgments
 
-- Thanks to Imperial College London, Department of Electrical and Electronic Engineering, for providing the resources and guidance for this project.
-- Thanks to all the team members for their individual contributions and joint efforts.
+- I would like to thank Imperial College London, Department of Electrical and Electronic Engineering, for providing the resources and guidance for this project.
+- I also extend my gratitude to all the team members for their individual contributions and collective efforts.
