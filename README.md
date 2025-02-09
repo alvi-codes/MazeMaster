@@ -1,7 +1,7 @@
 
 # MazeMaster: Autonomous maze-solving robot with cloud-based real-time navigation
 
-![Rover](MazeMaster_Rover.jpg)
+![MazeMaster_Rover](https://github.com/user-attachments/assets/39cb141a-886b-4295-9c05-e4c6571fb942)
 
 MazeMaster is an autonomous, two-wheeled robot designed to navigate a maze while mapping its layout in real-time. The robot utilizes an FPGA-based camera, accelerometer, gyroscope, compass, and wheel encoders to detect and avoid illuminated maze walls. It communicates with a cloud server to process navigation instructions and display a live map of the maze on a web application. This project combines robotics, embedded systems, cloud computing, and web development to deliver a fully functional autonomous navigation system.
 
