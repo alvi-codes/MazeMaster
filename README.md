@@ -50,10 +50,6 @@ MazeMaster is an autonomous, two-wheeled robot designed to navigate a maze while
    - The Arduino Nano uses a cascaded PID controller to maintain the robot's balance on two wheels.
    - The MPU6050 sensor provides real-time tilt angle and acceleration data for the control system.
 
-4. **Power Management**:
-   - A supercapacitor and bidirectional SMPS ensure stable power delivery to the beacons, even with fluctuating input from the PV panels.
-
-
 
 ## Report
 
