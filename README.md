@@ -5,7 +5,6 @@
 
 MazeMaster is an autonomous, two-wheeled robot designed to navigate a maze while mapping its layout in real-time. The robot utilizes an FPGA-based camera, accelerometer, gyroscope, compass, and wheel encoders to detect and avoid illuminated maze walls. It communicates with a cloud server to process navigation instructions and display a live map of the maze on a web application. This project combines robotics, embedded systems, cloud computing, and web development to deliver a fully functional autonomous navigation system.
 
----
 
 ## Features
 
@@ -16,7 +15,7 @@ MazeMaster is an autonomous, two-wheeled robot designed to navigate a maze while
 - **Web Application**: A React and Node.js web app visualizes the robot's movements and highlights the shortest path through the maze.
 - **Self-Balancing**: The robot maintains balance on two wheels using a PID control system implemented on an Arduino Nano.
 
----
+
 
 ## Technologies Used
 
@@ -34,7 +33,7 @@ MazeMaster is an autonomous, two-wheeled robot designed to navigate a maze while
 - **SystemVerilog**: FPGA image processing for color and lane detection.
 - **AWS DynamoDB**: Database for storing maze node data and navigation history.
 
----
+
 
 ## How It Works
 
@@ -54,13 +53,13 @@ MazeMaster is an autonomous, two-wheeled robot designed to navigate a maze while
 4. **Power Management**:
    - A supercapacitor and bidirectional SMPS ensure stable power delivery to the beacons, even with fluctuating input from the PV panels.
 
----
+
 
 ## Report
 
 - For a comprehensive overview of the technical details and implementation, please refer to the complete project report, `Y2_Group_Project_MazeMaster.pdf`, uploaded in the repository.
   
----
+
 
 ## Acknowledgments
 
