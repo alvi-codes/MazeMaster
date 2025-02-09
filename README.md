@@ -53,7 +53,7 @@ MazeMaster is an autonomous, two-wheeled robot designed to navigate a maze while
 
 ## Report
 
-- For a comprehensive overview of the technical details and implementation, please refer to the complete project report, `Y2_Group_Project_MazeMaster.pdf`, uploaded in the repository.
+- For a comprehensive overview of the technical details and implementation, please refer to the complete project report, `REPORT_MazeMaster.pdf`, uploaded in the repository.
   
 
 
