@@ -1,6 +1,5 @@
----
 
-# MazeMaster: Autonomous Maze-Navigating Robot
+# MazeMaster: Autonomous maze-solving robot with cloud-based real-time navigation
 
 ![Rover](MazeMaster_Rover.jpg)
 
@@ -57,8 +56,13 @@ MazeMaster is an autonomous, two-wheeled robot designed to navigate a maze while
 
 ---
 
+## Report
+
+- For a comprehensive overview of the technical details and implementation, please refer to the complete project report, `Y2_Group_Project_MazeMaster.pdf`, uploaded in the repository.
+  
+---
+
 ## Acknowledgments
 
 - Thanks to Imperial College London, Department of Electrical and Electronic Engineering, for providing the resources and guidance for this project.
 - Thanks to all the team members for their individual contributions and joint efforts.
----
